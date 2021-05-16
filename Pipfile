@@ -11,6 +11,8 @@ python-decouple = "*"
 djangorestframework = "*"
 dj-rest-auth = "*"
 django-allauth = "*"
+pyyaml = "*"
+uritemplate = "*"
 
 [requires]
 python_version = "3.9"
